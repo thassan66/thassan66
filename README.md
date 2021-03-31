@@ -5,7 +5,7 @@ I'm Taimoor Hassan, I'm a Full Stack developer 👨‍💻 who is passionate abo
 - 🌱 I’m currently learning DevOps, ReactJS and of course JS improvements
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
+- 💬 Ask me about: tech and a little bit about investments.
 
 ⚡ Technologies: JAVA, Spring, Angular, SQL 
 
