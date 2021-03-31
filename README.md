@@ -7,7 +7,7 @@ I'm Taimoor Hassan, I'm a Full Stack developer 👨‍💻 who is passionate abo
 - 📫 How to reach me ...
 - 💬 Ask me about: tech and a little bit about investments.
 
-⚡ Technologies: JAVA, Spring, Angular, SQL 
+⚡ Technologies: JAVA, Spring, Angular, Microservices, REST APIs, SQL/NoSQL 
 
 
 <!---
